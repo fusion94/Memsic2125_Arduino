@@ -1,19 +1,18 @@
 /*
-   Memsic2125
+ * Memsic 2125
+ * https://github.com/fusion94/Memsic2125_Arduino
+
+ * Read the Memsic 2125 two-axis accelerometer and prints them over the serial connection to the computer.
    
-   Read the Memsic 2125 two-axis accelerometer and prints them over the serial connection to the
-   computer.
-   
-   The circuit:
+ * The circuit:
     * X output of accelerometer to digital pin 2
     * Y output of accelerometer to digital pin 3
     * +V of accelerometer to +5V
     * GND of accelerometer to ground
 
-    * Copyright (c) 2012 by Tony Guntharp. All Rights Reserved.
-    * Licensed under the terms of the Apache Public License
-    * Please see the LICENSE included with this distribution for details.
-
+ *
+ * Copyright 2011-2013, http://fusion94.org
+ * Licensed under the Mozilla Public License Version 2.0
  */
  
  // these constants won't change:
