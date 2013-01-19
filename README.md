@@ -9,7 +9,7 @@ The Memsic 2125 is a low cost, dual-axis thermal accelerometer capable of measur
 Memsic provides the 2125 in a surface-mount format. Parallax mounts the circuit on a through-hole providing all I/O connections so it can easily be inserted on a breadboard or through-hole prototype area.
 
 ### The Details:
-For more info please see: http://fusion94.org/blog/2012/11/29/arduino-plus-compass-module-3-axis-hmc5883l/
+For more info please see: http://fusion94.org/blog/2012/11/28/arduino-plus-memsic-2125-dual-axis-accelerometer//
 
 ### Contributing:
 If you care to contribute at all then please see the [CONTRIBUTING File](https://github.com/fusion94/Memsic2125_Arduino/blob/master/CONTRIBUTING.md) for more details.
