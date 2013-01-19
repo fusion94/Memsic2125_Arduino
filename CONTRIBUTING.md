@@ -4,7 +4,7 @@ If you add any new files please make sure you add the source header to the top o
 ```
 /*
  * Memsic 2125
- * https://github.com/fusion94/Legendary
+ * https://github.com/fusion94/Memsic2125_Arduino
  *
  * Copyright 2011-2013, http://fusion94.org
  * Licensed under the Mozilla Public License Version 2.0
